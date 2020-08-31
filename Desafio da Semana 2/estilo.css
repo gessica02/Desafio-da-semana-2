@@ -1,0 +1,59 @@
+html, body {
+    margin: 0;
+}
+#telainicial {
+    height: 100%;
+    padding-top: 8%;
+    padding-left: 3%;
+    padding-right: 45%;
+    background: url("img/freepik\ 1.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+#hti {
+    font-size: 45pt;
+    margin: 25px;
+}
+#pti {
+    font-size: large;
+}
+#acao {
+    text-decoration: none;
+    color: white;
+    border: 1px white solid;
+    padding: 5px 10px 5px 10px;
+}
+section {
+    margin: 20px;
+    float: left;
+}
+.colunadois {
+    float: left;
+    position: relative;
+    width: 40%;
+    padding: 0% 5%;
+}
+.importancia {
+    text-align: justify;
+}
+#h2 {
+    text-align: center;
+    font-size: 25pt;
+}
+#idh2 {
+    margin: 40px;
+    text-align: center;
+    font-size: 35pt;
+}
+.icone {
+    width: 100px;
+}
+.colunacinco {
+    float: left;
+    position: relative;
+    width: 10%;
+    padding: 0% 5%;
+    text-align: left;
+    margin-top: 25px;
+}
